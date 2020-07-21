@@ -88,6 +88,7 @@ See the section about [deployment](https://docs.angularjs.org/guide) for more in
 
 
 ##File Structure
+```
 Slant/
 ├── Slant/                       ───> Contains the develop version of Slant Admin Template.
 │   ├── app/                    └──> All application files in this folder.
@@ -105,7 +106,7 @@ Slant/
 │   └── package.json
 ├── version.txt/                    ───> Contains the version of Slant Admin
 └── documentation/                ───> The help documentation is.
-
+```
 
 ## Documentation
 
